@@ -1,4 +1,4 @@
 # stepik-auto-tests-course
-Home works
+Homework
 
 https://stepik.org/course/575/syllabus
